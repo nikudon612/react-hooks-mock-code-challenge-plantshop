@@ -41,6 +41,42 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "image": "",
+      "name": "",
+      "price": "",
+      "id": 8
+    },
+    {
+      "image": "hihihih",
+      "name": "vegan ramen",
+      "price": "1000",
+      "id": 9
+    },
+    {
+      "image": "big boy",
+      "name": "big pothos",
+      "price": "100",
+      "id": 10
+    },
+    {
+      "image": "big boy",
+      "name": "big pothos",
+      "price": "100",
+      "id": 11
+    },
+    {
+      "image": "big boy",
+      "name": "big pothos",
+      "price": "108.00",
+      "id": 12
+    },
+    {
+      "image": "big boy",
+      "name": "big",
+      "price": "108",
+      "id": 13
     }
   ]
 }
